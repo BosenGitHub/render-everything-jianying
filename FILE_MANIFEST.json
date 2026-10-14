@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "workflow": "video-use -> ChatCut -> Jianying draft ZIP",
+  "files_sha256": {
+    "SKILL.md": "cbaacb52015cfafd2a1153faae9d2283f5325f800fce6060f77d048add1145c7",
+    "agents/openai.yaml": "ca803add9171088dba77fe99dead19c07c915e14a400e8c90dfb525f78e79f32",
+    "references/jianying-runtime.md": "b7ee2a6c28c2846e7f34e19c2a93cdd96d335160c066e159606f4d71fa8bae8b",
+    "references/timeline-schema.md": "fc14f8d82afc420a0be4859ff60534e194be5d9ad1ed5da27155565982a8a752",
+    "requirements.txt": "66c39e0c99284a130d1b3587788b6d8c19961c745e80964c99b6bb9885cca169",
+    "scripts/build_jianying_draft.py": "9534489089de80fa900d1bcaa0746c905f6ea04f8e9e64f1866d8a9e911b4540",
+    "scripts/package_draft.py": "6cb1325247e28a4ad6e8d6c27f01095e0f254d57c67d2fe7ca52d60946f6a627",
+    "scripts/validate_timeline.py": "dc1787a6c3acbbdadf7788c2b915d954706da0026f06a952dc7c501a8464b030"
+  }
+}

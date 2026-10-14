@@ -1,0 +1,5 @@
+interface:
+  display_name: "Render Everything → 剪映草稿"
+  short_description: "先 video-use，再 ChatCut，输出可编辑剪映草稿"
+  default_prompt: "Use $render-everything-jianying to turn this material into an editable Jianying draft through video-use and ChatCut."
+
